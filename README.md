@@ -1,3 +1,6 @@
+# Key Modification
+*Added SimpleTwitter_withstrings.sol in public/contracts/src, combining strings.sol & SimpleTwitter.sol to work easily in solidity IDE.
+
 # Clojure Ethereum Example
 
 This is source code for tutorials:
